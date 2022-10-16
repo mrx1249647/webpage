@@ -1,0 +1,17 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#services{
+    background-color: #ccc;
+    width: 10px;
+    height: 10px;
+}
+#services h2{
+    display: none;
+}
+#services > p {
+    display: none;
+}
+#services .col-md-4{
+display: none;
+}
